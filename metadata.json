@@ -1,0 +1,6 @@
+{
+  "name": "Smart Ration PDS",
+  "description": "Secure Smart Ration Distribution System with cryptographic QR/NFC, adaptive biometrics & face recognition, offline queue, inventory management, and fraud detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
